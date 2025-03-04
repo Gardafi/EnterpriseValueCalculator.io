@@ -1,0 +1,31 @@
+<div class="explanation-section">
+    <h2>Cómo se calcula el valor empresarial</h2>
+    <ol class="explanation-steps">
+        <li>
+            <strong>Proyectar ingresos y gastos:</strong> 
+            <p>Estimamos las ventas futuras con la tasa de crecimiento anual y calculamos todos los gastos como porcentaje de ventas o incrementos anuales.</p>
+        </li>
+        <li>
+            <strong>Calcular EBITDA y BAII:</strong> 
+            <p>EBITDA = Ventas - Consumos - Personal - Otros gastos</p>
+            <p>BAII = EBITDA - Amortización</p>
+        </li>
+        <li>
+            <strong>Determinar Flujo de Caja Libre (FCL):</strong> 
+            <p>FCL = EBITDA - Impuestos - Inversión NOF - Inversión Activo Fijo</p>
+        </li>
+        <li>
+            <strong>Calcular Valor Actual de FCL:</strong> 
+            <p>Descontamos los flujos futuros a valor presente usando la tasa de descuento.</p>
+        </li>
+        <li>
+            <strong>Calcular Valor Terminal:</strong> 
+            <p>Valor Terminal = FCL del último año × (1 + g) ÷ (Tasa de descuento - g)</p>
+            <p>Donde g = tasa de crecimiento terminal</p>
+        </li>
+        <li>
+            <strong>Determinar Valor Total:</strong> 
+            <p>Valor Total = Valor Actual de FCL + Valor Actual del Valor Terminal</p>
+        </li>
+    </ol>
+</div>
